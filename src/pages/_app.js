@@ -1,18 +1,14 @@
-"use client"; // Ensure this is at the top
-
 import { ThemeProvider } from "@/context/ThemeContext";
 import { AuthProvider } from "@/context/AuthContext";
-import "@/app/globals.css";
 
-
-export default function RootLayout({ children }) {
+function MyApp({ Component, pageProps }) {
   return (
     <AuthProvider>
       <ThemeProvider>
-        <html lang="en">
-          <body>{children}</body>
-        </html>
+        <Component {...pageProps} />
       </ThemeProvider>
     </AuthProvider>
   );
 }
+
+export default MyApp;
