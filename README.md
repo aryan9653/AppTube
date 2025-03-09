@@ -3,7 +3,7 @@
 AppTube is a **YouTube-like video platform** built with **Next.js**, **Firebase**, and the **YouTube API**. It allows users to watch, upload, and interact with videos in an immersive experience, with **Google authentication** and a stunning aurora-themed UI.
 
 ## 🚀 Features
-- 🌟 **User Authentication** (Google Sign-In via Firebase)
+- 🌟 **User Authentication** (Google Sign-In via Firebase) maybe
 - 🎥 **Fetch Videos from YouTube API** (Trending, Music, Gaming, Movies, News, Subscriptions, New Releases)
 - 🔗 **Like, Comment, and Subscribe** functionality
 - 🔄 **Infinite Scrolling for Large Video Lists**
