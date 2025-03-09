@@ -62,7 +62,7 @@ Pull requests are welcome! Follow these steps:
 5. **Submit** a pull request. 🚀
 
 ## 📜 License
-This project is licensed under the **MIT License**. how it works 
+This project is licensed under the **MIT License**. 
 
 ---
 
